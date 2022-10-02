@@ -36,3 +36,5 @@ for index in range(1, len(numbers)):
 
 print("")
 print("Solution:", count)
+
+#Solution: 1226
