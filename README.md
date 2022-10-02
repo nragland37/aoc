@@ -2,7 +2,8 @@
 Python and C++ solutions to the Advent of Code problems.
 Check out https://adventofcode.com.
 
-<a href="https://adventofcode.com"><img src="2021/calendar.svg" width="80%" /></a>
+<a href="https://adventofcode.com">![image](https://user-images.githubusercontent.com/92565109/193434453-a318c9a0-c142-4fc8-8ef2-b2d7d7da91dc.png)</a>
+
 
 The goal is to keep my Python and C++ knowledge fresh and to follow the latest changes of the languages.
 
