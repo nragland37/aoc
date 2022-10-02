@@ -5,7 +5,7 @@
 <img src="./docs/aoc-tree.png" width="120" height="200" />
 </p>
 
-**Advent of Code** is an annual Advent calendar of small programming puzzles that can be solved in any programming language, in this repository Python and C++ is used.
+**Advent of Code** is an annual Advent calendar of small programming puzzles that can be solved in any programming language, in this repository Python and C++ are used.
 
 ## 🎄🌟🌟  Solutions  🌟🌟🎄
 
