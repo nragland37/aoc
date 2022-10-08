@@ -1,5 +1,3 @@
-## 🎄🌟  Solutions  🌟🎄
-
 | Day | Challenge | Part 1 | Part 2 |
 |:---:|:---|:---:|:---:|
 | 1 | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [part 1](./day01/part1.py) | [part 2](./day01/part2.py) |
