@@ -1,7 +1,7 @@
 # :tada: The challenges & my solutions :gift:
 | Day | Challenge | Part 1 | Part 2 | :white_check_mark: |
 |:---:|:---|:---:|:---:|:---:|
-| 1 | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [part 1](./day01/part1.py) | [part 2](./day01/part2.py) |
+| 1 | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [part 1](./day01/part1.py) | [part 2](./day01/part2.py) | :white_check_mark: |
 | 2 | [Dive!](https://adventofcode.com/2021/day/2) | [part 1](./day02/part1.py) | [part 2](./day02/part2.py) |
 | 3 | [Binary Diagnostic](https://adventofcode.com/2021/day/3) | [part 1](./day03/part1.py) | [part 2](./day03/part2.py) |
 | 4 | [Giant Squid](https://adventofcode.com/2021/day/4) | [part 1](./day04/part1.py) | [part 2](./day04/part2.py) |
