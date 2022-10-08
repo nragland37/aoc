@@ -4,7 +4,7 @@
 <img src="./docs/aoc-tree.png" width="120" height="200" />
 </p>
 
-[Advent of Code][aoc-about] is an annual Advent calendar of small programming puzzles that can be solved in any programming language, in this repository Python and C++ are used. One programming puzzle a day is released from 1st
+[Advent of Code][aoc-about] is an annual Advent calendar of small programming puzzles that can be solved in any programming language. One programming puzzle a day is released from 1st
 to 25th December, divided in two parts (the second of which is unlocked after
 solving the first). Advent of Code is created by [Eric Wastl][aoc-eric], and is
 100% free. If you like Advent Of Code and want to support its creator, you can
