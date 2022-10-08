@@ -1,6 +1,6 @@
-# The challenges & my solutions :gift:
-| Day | Challenge | Part 1 | Part 2 |
-|:---:|:---|:---:|:---:|
+# :tada: The challenges & my solutions :gift:
+| Day | Challenge | Part 1 | Part 2 | :white_check_mark: |
+|:---:|:---|:---:|:---:|:---:|
 | 1 | [Chronal Calibration](https://adventofcode.com/2018/day/1) | [part 1](./day01/part1.py) | [part 2](./day01/part2.py) |
 | 2 | [Inventory Management System](https://adventofcode.com/2018/day/2) | [part 1](./day02/part1.py) | [part 2](./day02/part2.py) |
 | 3 | [No Matter How You Slice It](https://adventofcode.com/2018/day/3) | [part 1](./day03/part1.py) | [part 2](./day03/part2.py) |
