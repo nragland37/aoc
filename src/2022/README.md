@@ -1,4 +1,6 @@
-# <p align="center"> :tada: The Challenges & My Solutions :gift: </p>
+# <p align="center"> AOC-2022 </p>
+<br>
+
 | Day | Challenge | Solution |:white_check_mark:|
 |:---:|:---|:---:|:---:|
 | 1 | [](https://adventofcode.com/2022/day/1) | [part 1](./src/day01/part1.py) [part 2](./src/day01/part2.py) |
