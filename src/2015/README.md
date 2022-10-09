@@ -1,7 +1,7 @@
-# <p align="center"> AOC-2015 </p>
+# <p align="center"> AOC-2016 </p>
 <br>
 
-| Day | Challenge | Solution ||
+| Day | Challenge | Solution |:white_check_mark:|
 |:---:|:---|:---:|:---:|
 | 1 | [Not Quite Lisp](https://adventofcode.com/2015/day/1) | [part 1](./src/day01/part1.py) [part 2](./src/day01/part2.py) |
 | 2 | [I Was Told There Would Be No Math](https://adventofcode.com/2015/day/2) | [part 1](./src/day02/part1.py) [part 2](./src/day02/part2.py) |
