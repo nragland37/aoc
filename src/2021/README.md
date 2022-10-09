@@ -1,5 +1,5 @@
 # <p align="center"> :tada: The Challenges & My Solutions :gift: </p>
-| Day | Challenge | Solution ||
+| Day | Challenge | Solution |:white_check_mark:|
 |:---:|:---|:---:|:---:|
 | 1 | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [part 1](./src/day01/part1.py) [part 2](./src/day01/part2.py) | :white_check_mark: |
 | 2 | [Dive!](https://adventofcode.com/2021/day/2) | [part 1](./src/day02/part1.py) [part 2](./src/day02/part2.py) |
