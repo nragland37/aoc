@@ -1,4 +1,6 @@
-# <p align="center"> :tada: The Challenges & My Solutions :gift: </p>
+# <p align="center"> AOC-2016 </p>
+<br>
+
 | Day | Challenge | Solution |:white_check_mark:|
 |:---:|:---|:---:|:---:|
 | 1 | [No Time for a Taxicab](https://adventofcode.com/2016/day/1) | [part 1](./src/day01/part1.py) [part 2](./src/day01/part2.py) |
