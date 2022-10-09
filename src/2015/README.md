@@ -1,4 +1,6 @@
-# <p align="center"> :tada: The Challenges & My Solutions :gift: </p>
+# <p align="center"> 2015 </p>
+<br>
+
 | Day | Challenge | Solution ||
 |:---:|:---|:---:|:---:|
 | 1 | [Not Quite Lisp](https://adventofcode.com/2015/day/1) | [part 1](./src/day01/part1.py) [part 2](./src/day01/part2.py) |
