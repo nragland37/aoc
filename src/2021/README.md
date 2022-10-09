@@ -1,4 +1,6 @@
-# <p align="center"> :tada: The Challenges & My Solutions :gift: </p>
+# <p align="center"> AOC-2021 </p>
+<br>
+
 | Day | Challenge | Solution |:white_check_mark:|
 |:---:|:---|:---:|:---:|
 | 1 | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [part 1](./src/day01/part1.py) [part 2](./src/day01/part2.py) | :white_check_mark: |
