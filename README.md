@@ -4,13 +4,11 @@
 <img src="./docs/aoc-tree.png" width="120" height="200" />
 </p>
 
-[Advent of Code][aoc-about] is an annual Advent calendar of small programming puzzles that can be solved in any programming language. One programming puzzle a day is released from 1st
-to 25th December, divided in two parts (the second of which is unlocked after
-solving the first). Advent of Code is created by [Eric Wastl][aoc-eric], and is
-100% free. If you like Advent Of Code and want to support its creator, you can
-donate to him [here][aoc-support]. If you want to hang out with other fellow
-coders, discuss about puzzles and solutions, or just have a look around, you can
-join the official subreddit: [r/adventofcode][aoc-reddit]
+[Advent of Code](https://adventofcode.com/2019/about) is an annual Advent calendar of small programming puzzles that can be solved in any programming language. 
+One programming puzzle a day is released from 1st to 25th December, divided in two parts (the second of which is unlocked after solving the first). 
+Advent of Code is created by [Eric Wastl](https://twitter.com/ericwastl), and is 100% free. If you like Advent Of Code and want to support its creator, you can
+donate to him [here](https://adventofcode.com/2019/support). If you want to hang out with other fellow coders, discuss about puzzles and solutions, or just have a look around, you can
+join the official subreddit: [aoc-reddit](https://www.reddit.com/r/adventofcode/)
 
 ## My Solutions 
 
@@ -29,8 +27,3 @@ join the official subreddit: [r/adventofcode][aoc-reddit]
 * [Advent of Code subreddit](https://www.reddit.com/r/adventofcode/)
 * [Advent of Code walkthroughs](https://github.com/mebeim/aoc)
 * [Awesome Advent of Code (collection of resources)](https://github.com/Bogdanp/awesome-advent-of-code)
-
-[aoc-about]:   https://adventofcode.com/2019/about
-[aoc-eric]:    https://twitter.com/ericwastl
-[aoc-support]: https://adventofcode.com/2019/support
-[aoc-reddit]:  https://www.reddit.com/r/adventofcode/
