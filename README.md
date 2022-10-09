@@ -24,6 +24,5 @@ join the official subreddit: [aoc-reddit](https://www.reddit.com/r/adventofcode/
 ## Resources 
 
 * [Advent of Code - Official Site](https://adventofcode.com/)
-* [Advent of Code subreddit](https://www.reddit.com/r/adventofcode/)
 * [Advent of Code walkthroughs](https://github.com/mebeim/aoc)
 * [Awesome Advent of Code (collection of resources)](https://github.com/Bogdanp/awesome-advent-of-code)
