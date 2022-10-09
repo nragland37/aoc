@@ -1,3 +1,5 @@
+# <p align="center"> Advent of Code </p>
+
 <p align="center">
 <img src="./docs/aoc-tree.png" width="120" height="200" />
 </p>
