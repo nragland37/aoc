@@ -1,5 +1,3 @@
-# 🌟🎄🌟  Advent of Code  🌟🎄🌟
-
 <p align="center">
 <img src="./docs/aoc-tree.png" width="120" height="200" />
 </p>
@@ -12,7 +10,7 @@ donate to him [here][aoc-support]. If you want to hang out with other fellow
 coders, discuss about puzzles and solutions, or just have a look around, you can
 join the official subreddit: [r/adventofcode][aoc-reddit]
 
-## 🎄🌟  My Solutions  🎄🌟
+## My Solutions 
 
 * [2015](src/2015)
 * [2016](src/2016)
@@ -23,7 +21,7 @@ join the official subreddit: [r/adventofcode][aoc-reddit]
 * [2021](src/2021)
 * [2022](src/2022)
 
-## 🎄🌟  Resources  🎄🌟
+## Resources 
 
 * [Advent of Code - Official Site](https://adventofcode.com/)
 * [Advent of Code subreddit](https://www.reddit.com/r/adventofcode/)
