@@ -1,7 +1,7 @@
 # <p align="center"> AOC-2021 </p>
 <br>
 
-| Day | Challenge | Solution |:white_check_mark:|
+| Day | Challenge | Solution | Complete |
 |:---:|:---|:---:|:---:|
 | 1 | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [:one:](./src/day01/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day01/part2.py) | :white_check_mark: |
 | 2 | [Dive!](https://adventofcode.com/2021/day/2) | [:one:](./src/day02/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day02/part2.py) |

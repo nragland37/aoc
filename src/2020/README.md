@@ -1,7 +1,7 @@
 # <p align="center"> AOC-2020 </p>
 <br>
 
-| Day | Challenge | Solution |:white_check_mark:|
+| Day | Challenge | Solution | Complete |
 |:---:|:---|:---:|:---:|
 | 1 | [Report Repair](https://adventofcode.com/2020/day/1) | [:one:](./src/day01/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day01/part2.py) |
 | 2 | [Password Philosophy](https://adventofcode.com/2020/day/2) | [:one:](./src/day02/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day02/part2.py) |

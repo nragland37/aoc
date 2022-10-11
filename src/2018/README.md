@@ -1,7 +1,7 @@
 # <p align="center"> AOC-2018 </p>
 <br>
 
-| Day | Challenge | Solution |:white_check_mark:|
+| Day | Challenge | Solution | Complete |
 |:---:|:---|:---:|:---:|
 | 1 | [Chronal Calibration](https://adventofcode.com/2018/day/1) | [:one:](./src/day01/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day01/part2.py) |
 | 2 | [Inventory Management System](https://adventofcode.com/2018/day/2) | [:one:](./src/day02/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day02/part2.py) |
