@@ -23,6 +23,11 @@ join the official subreddit: [aoc-reddit](https://www.reddit.com/r/adventofcode/
 
 ## Resources 
 
+* [Advent of Code: Solving Your Puzzles With Python](https://realpython.com/python-advent-of-code/)
 * [Advent of Code - Official Site](https://adventofcode.com/)
-* [Advent of Code walkthroughs](https://github.com/mebeim/aoc)
-* [Awesome Advent of Code (collection of resources)](https://github.com/Bogdanp/awesome-advent-of-code)
+* [Advent of Code Walkthroughs](https://github.com/mebeim/aoc)
+* [Awesome Advent of Code (Collection of Resources)](https://github.com/Bogdanp/awesome-advent-of-code)
+
+## Instructions
+
+* [Click here](README-2.md)  
