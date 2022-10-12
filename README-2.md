@@ -7,11 +7,11 @@ You just submit the answer, which is usually a number or a text string.
 
 In general, you’ll follow a series of steps to solve a puzzle on the site:
 
-1. **Log in** on the Advent of Code website. You do this by using your credentials from another service like GitHub, Google, Twitter, or Reddit.
+1. **Log in** on the Advent of Code [website](https://adventofcode.com/2022). You do this by using your credentials from another service like GitHub, Google, Twitter, or Reddit.
 
 1. **Read** the puzzle text and pay special attention to the given example. You should make sure you understand the solution for the example data.
 
-1. **Download** your personalized input for the puzzle. You’ll need this input in order to find your unique answer to the problem.
+1. **Download** your personalized input for the puzzle. You’ll need this input in order to find your unique answer to the problem. ( e.g, https://adventofcode.com/2021/day/1/input ) 
 
 1. **Code up your solution.** This is the fun part, which you’ll get a lot of practice for in the rest of this tutorial.
 
