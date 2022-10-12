@@ -4,7 +4,7 @@
 <img src="./docs/aoc-tree.png" width="120" height="200" />
 </p>
 
-[Advent of Code](https://adventofcode.com/2019/about) is an annual Advent calendar of small programming puzzles that can be solved in any programming language. 
+[Advent of Code](https://adventofcode.com/2022/about) is an annual Advent calendar of small programming puzzles that can be solved in any programming language. 
 One programming puzzle a day is released from 1st to 25th December, divided in two parts (the second of which is unlocked after solving the first). 
 Advent of Code is created by [Eric Wastl](https://twitter.com/ericwastl), and is 100% free. If you like Advent Of Code and want to support its creator, you can
 donate to him [here](https://adventofcode.com/2019/support). If you want to hang out with other fellow coders, discuss about puzzles and solutions, or just have a look around, you can
