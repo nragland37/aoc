@@ -28,6 +28,7 @@ join the official subreddit: [aoc-reddit](https://www.reddit.com/r/adventofcode/
 ## Resources 
 
 * [Advent of Code: Solving Your Puzzles With Python](https://realpython.com/python-advent-of-code/)
+* [Advent of Code 2021 Solutions - Youtube](https://www.youtube.com/watch?v=URJfhlepvXU&list=PLWBKAf81pmOa5C0IGzmK-Pu48pH8YhXAJ)
 * [Advent of Code - Official Site](https://adventofcode.com/)
 * [Advent of Code Walkthroughs](https://github.com/mebeim/aoc)
 * [Awesome Advent of Code (Collection of Resources)](https://github.com/Bogdanp/awesome-advent-of-code)
