@@ -10,10 +10,6 @@ Advent of Code is created by [Eric Wastl](https://twitter.com/ericwastl), and is
 donate to him [here](https://adventofcode.com/2019/support). If you want to hang out with other fellow coders, discuss about puzzles and solutions, or just have a look around, you can
 join the official subreddit: [aoc-reddit](https://www.reddit.com/r/adventofcode/)
 
-## Instructions
-
-* [Getting Started](README-2.md)
-
 ## My Solutions 
 
 * [2015](src/2015)
