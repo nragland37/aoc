@@ -9,7 +9,7 @@
 | 4 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | [:one:](./src/day04/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day04/part2.py) |
 | 5 | [Supply Stacks](https://adventofcode.com/2022/day/5) | [:one:](./src/day05/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day05/part2.py) |
 | 6 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | [:one:](./src/day06/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day06/part2.py) |
-| 7 | [](https://adventofcode.com/2022/day/7) | [:one:](./src/day07/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day07/part2.py) |
+| 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [:one:](./src/day07/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day07/part2.py) |
 | 8 | [](https://adventofcode.com/2022/day/8) | [:one:](./src/day08/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day08/part2.py) |
 | 9 | [](https://adventofcode.com/2022/day/9) | [:one:](./src/day09/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day09/part2.py) |
 | 10 | [](https://adventofcode.com/2022/day/10) | [:one:](./src/day10/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day10/part2.py) |
