@@ -11,17 +11,17 @@
 | 6 | [Tuning Trouble](https://adventofcode.com/2022/day/6) | [:one:](./src/day06/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day06/part2.py) |
 | 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [:one:](./src/day07/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day07/part2.py) |
 | 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [:one:](./src/day08/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day08/part2.py) |
-| 9 | [](https://adventofcode.com/2022/day/9) | [:one:](./src/day09/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day09/part2.py) |
-| 10 | [](https://adventofcode.com/2022/day/10) | [:one:](./src/day10/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day10/part2.py) |
-| 11 | [](https://adventofcode.com/2022/day/11) | [:one:](./src/day11/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day11/part2.py) |
-| 12 | [](https://adventofcode.com/2022/day/12) | [:one:](./src/day12/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day12/part12.py) |
-| 13 | [](https://adventofcode.com/2022/day/13) | [:one:](./src/day13/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day13/part2.py) |
-| 14 | [](https://adventofcode.com/2022/day/14) | [:one:](./src/day14/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day14/part2.py) |
-| 15 | [](https://adventofcode.com/2022/day/15) | [:one:](./src/day15/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day15/part2.py) |
-| 16 | [](https://adventofcode.com/2022/day/16) | [:one:](./src/day16/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day16/part12.py) |
-| 17 | [](https://adventofcode.com/2022/day/17) | [:one:](./src/day17/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day17/part12.py) |
-| 18 | [](https://adventofcode.com/2022/day/18) | [:one:](./src/day18/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day18/part12.py) |
-| 19 | [](https://adventofcode.com/2022/day/19) | [:one:](./src/day19/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day19/part2.py) |
+| 9 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [:one:](./src/day09/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day09/part2.py) |
+| 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [:one:](./src/day10/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day10/part2.py) |
+| 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [:one:](./src/day11/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day11/part2.py) |
+| 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [:one:](./src/day12/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day12/part12.py) |
+| 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | [:one:](./src/day13/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day13/part2.py) |
+| 14 | [Regolith Reservoir](https://adventofcode.com/2022/day/14) | [:one:](./src/day14/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day14/part2.py) |
+| 15 | [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | [:one:](./src/day15/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day15/part2.py) |
+| 16 | [Proboscidea Volcanium](https://adventofcode.com/2022/day/16) | [:one:](./src/day16/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day16/part12.py) |
+| 17 | [Pyroclastic Flow](https://adventofcode.com/2022/day/17) | [:one:](./src/day17/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day17/part12.py) |
+| 18 | [Boiling Boulders](https://adventofcode.com/2022/day/18) | [:one:](./src/day18/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day18/part12.py) |
+| 19 | [Not Enough Minerals](https://adventofcode.com/2022/day/19) | [:one:](./src/day19/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day19/part2.py) |
 | 20 | [](https://adventofcode.com/2022/day/20) | [:one:](./src/day20/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day20/part12.py) |
 | 21 | [](https://adventofcode.com/2022/day/21) | [:one:](./src/day21/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day21/part2.py) |
 | 22 | [](https://adventofcode.com/2022/day/22) | [:one:](./src/day22/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day22/part2.py) |
