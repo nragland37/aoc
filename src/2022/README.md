@@ -27,4 +27,4 @@
 | 22 | [Monkey Map](https://adventofcode.com/2022/day/22) | [:one:](./src/day22/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day22/part2.py) |
 | 23 | [Unstable Diffusion](https://adventofcode.com/2022/day/23) | [:one:](./src/day23/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day23/part2.py) |
 | 24 | [Blizzard Basin](https://adventofcode.com/2022/day/24) | [:one:](./src/day24/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day24/part12.py) |
-| 25 | [](https://adventofcode.com/2022/day/25) | [:one:](./src/day25/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day25/part1.py) |
+| 25 | [Full of Hot Air](https://adventofcode.com/2022/day/25) | [:one:](./src/day25/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day25/part1.py) |
