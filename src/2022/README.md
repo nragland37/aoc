@@ -3,7 +3,7 @@
 
 | Day | Challenge | Solution | Complete |
 |:---:|:---|:---:|:---:|
-| 1 | [Calorie Counting](https://adventofcode.com/2022/day/1) | [:one:](./src/day01/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day01/part2.py) |
+| 1 | [Calorie Counting](https://adventofcode.com/2022/day/1) | [:one:](./src/day01/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day01/part2.py) | :white_check_mark: |
 | 2 | [Rock Paper Scissors](https://adventofcode.com/2022/day/2) | [:one:](./src/day02/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day02/part2.py) |
 | 3 | [Rucksack Reorganization](https://adventofcode.com/2022/day/3) | [:one:](./src/day03/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day03/part2.py) |
 | 4 | [Camp Cleanup](https://adventofcode.com/2022/day/4) | [:one:](./src/day04/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day04/part2.py) |
