@@ -20,6 +20,7 @@ join the official subreddit: [aoc-reddit](https://www.reddit.com/r/adventofcode/
 * [2020](src/2020)
 * [2021](src/2021)
 * [2022](src/2022)
+* [2023](src/2023)
 
 ## Resources 
 
