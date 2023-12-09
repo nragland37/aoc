@@ -30,6 +30,8 @@ def calc(lines):
 
 
 # **************************************************************************************************
+
+
 def main():
     with open("input01.txt", "r") as file:
         lines = file.read().splitlines()

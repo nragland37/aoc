@@ -10,6 +10,8 @@ def min_cubes_needed_per_game(game_data):
         for cube in set:
             number, color = cube.split()
             min_cubes[color] = max(min_cubes[color], int(number))
+            # if int(number) > min_cubes[color]:
+            #     min_cubes[color] = int(number)
 
     return min_cubes["red"] * min_cubes["green"] * min_cubes["blue"]
 
@@ -32,7 +34,7 @@ def main():
             game_data = parse_game(line)
             total += min_cubes_needed_per_game(game_data)
 
-    print(f"Sum of set powers: {total}")
+    print(total)
 
 
 # **************************************************************************************************
