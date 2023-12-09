@@ -3,8 +3,8 @@
 
 | Day | Challenge | Solution | Complete |
 |:---:|:---|:---:|:---:|
-| 1 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | [:one:](./src/day01/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day01/part2.py) | [:white_check_mark:] |
-| 2 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [:one:](./src/day02/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day02/part2.py) | [:white_check_mark:] |
+| 1 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | [:one:](./src/day01/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day01/part2.py) | :white_check_mark: |
+| 2 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [:one:](./src/day02/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day02/part2.py) | :white_check_mark: |
 | 3 | [Gear Ratios](https://adventofcode.com/2023/day/3) | [:one:](./src/day03/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day03/part2.py) | 
 | 4 | [Scratchcards](https://adventofcode.com/2023/day/4) | [:one:](./src/day04/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day04/part2.py) |
 | 5 | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [:one:](./src/day05/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day05/part2.py) |
