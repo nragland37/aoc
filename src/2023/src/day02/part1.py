@@ -1,8 +1,3 @@
-import re
-
-# **************************************************************************************************
-
-
 def is_game_possible(game, max_cubes):
     for set in game:
         cube_counts = {"red": 0, "green": 0, "blue": 0}
