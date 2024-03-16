@@ -2,7 +2,7 @@
 <br>
 
 | Day | Challenge | Solution |
-|:---:|:---|:---:|:---:|
+|:---:|:---|:---:|
 | 1 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | [:white_check_mark:](./src/day01) | 
 | 2 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [:white_check_mark:](./src/day02) | 
 | 3 | [Gear Ratios](https://adventofcode.com/2023/day/3) | [___](./src/day03) | 
