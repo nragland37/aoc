@@ -11,15 +11,9 @@ def min_cubes_needed_per_game(game_data):
     return min_cubes["red"] * min_cubes["green"] * min_cubes["blue"]
 
 
-# **************************************************************************************************
-
-
 def parse_game(line):
     parts = line.split(": ")[1].split(";")
     return [part.strip().split(", ") for part in parts]
-
-
-# **************************************************************************************************
 
 
 def main():
@@ -31,8 +25,6 @@ def main():
 
     print(total)
 
-
-# **************************************************************************************************
 
 if __name__ == "__main__":
     main()

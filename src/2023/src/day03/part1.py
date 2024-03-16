@@ -10,9 +10,6 @@ def is_adjacent_to_symbols(grid, row, col, symbols):
     return False
 
 
-# **************************************************************************************************
-
-
 def find_full_number(grid, row, col):
     number_str = grid[row][col]
 
@@ -29,13 +26,10 @@ def find_full_number(grid, row, col):
     return int(number_str), left_col, right_col
 
 
-# **************************************************************************************************
-
-
 def sum_adjacent_to_symbols(grid):
     total_sum = 0
     symbols = set()
-    
+
     for row in range(len(grid)):
         for col in range(len(grid[0])):
             if not grid[row][col].isdigit() and grid[row][col] != ".":
@@ -43,16 +37,15 @@ def sum_adjacent_to_symbols(grid):
 
     for row in range(len(grid)):
         for col in range(len(grid[0])):
-            if grid[row][col].isdigit() and is_adjacent_to_symbols(grid, row, col, symbols):
+            if grid[row][col].isdigit() and is_adjacent_to_symbols(
+                grid, row, col, symbols
+            ):
                 number, start_col, end_col = find_full_number(grid, row, col)
                 total_sum += number
                 for i in range(start_col, end_col + 1):
                     grid[row][i] = "."
 
     return total_sum
-
-
-# **************************************************************************************************
 
 
 def main():
@@ -63,8 +56,6 @@ def main():
     result = sum_adjacent_to_symbols(grid)
     print(result)
 
-
-# **************************************************************************************************
 
 if __name__ == "__main__":
     main()

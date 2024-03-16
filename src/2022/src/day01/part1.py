@@ -19,15 +19,10 @@ def find_max_calorie_elf(calories_list):
     print(f"{max_calories}\n{max_elf}")
 
 
-# **************************************************************************************************
-
-
 def main():
     calories_list = open("input01.txt").read().splitlines()
     find_max_calorie_elf(calories_list)
 
-
-# **************************************************************************************************
 
 if __name__ == "__main__":
     main()

@@ -19,9 +19,6 @@ def find_max_calorie_elf(calories_list):
     return sorted_calories[:3]
 
 
-# **************************************************************************************************
-
-
 def main():
     calories_list = open("input01.txt").read().splitlines()
 
@@ -30,8 +27,6 @@ def main():
     total_calories = sum(elf[1] for elf in top_elves)
     print(total_calories)
 
-
-# **************************************************************************************************
 
 if __name__ == "__main__":
     main()

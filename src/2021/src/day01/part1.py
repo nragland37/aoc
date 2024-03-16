@@ -13,9 +13,9 @@ INPUT = """\
 
 
 def main():
-    numbers = open('input01.txt').read().splitlines()       # file input
+    numbers = open("input01.txt").read().splitlines()
     # numbers = [int(line.strip()) for line in INPUT.splitlines()]  # example input
-    print(numbers[0], '(N/A - no previous measurement)')
+    print(numbers[0], "(N/A - no previous measurement)")
 
     count = 0
 
@@ -24,22 +24,14 @@ def main():
         prevNum = numbers[index - 1]
 
         if currentNum > prevNum:
-            print(currentNum, '(increased)')
+            print(currentNum, "(increased)")
             count += 1
         else:
-            print(currentNum, '(decreased)')
+            print(currentNum, "(decreased)")
 
-    print('')
+    print("")
     print(count)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
-
-
-# example output:
-# solution: 7
-
-
-# file output:
-# solution: 1225
