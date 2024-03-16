@@ -3,28 +3,28 @@
 
 | Day | Challenge | Solution | Complete |
 |:---:|:---|:---:|:---:|
-| 1 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | [:one:](./src/day01/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day01/part2.py) | :white_check_mark: |
-| 2 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [:one:](./src/day02/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day02/part2.py) | :white_check_mark: |
-| 3 | [Gear Ratios](https://adventofcode.com/2023/day/3) | [:one:](./src/day03/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day03/part2.py) | 
-| 4 | [Scratchcards](https://adventofcode.com/2023/day/4) | [:one:](./src/day04/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day04/part2.py) |
-| 5 | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [:one:](./src/day05/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day05/part2.py) |
-| 6 | [Wait For It](https://adventofcode.com/2023/day/6) | [:one:](./src/day06/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day06/part2.py) |
-| 7 | [Camel Cards](https://adventofcode.com/2023/day/7) | [:one:](./src/day07/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day07/part2.py) |
-| 8 | [Haunted Wasteland](https://adventofcode.com/2023/day/8) | [:one:](./src/day08/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day08/part2.py) |
-| 9 | [Mirage Maintenance](https://adventofcode.com/2023/day/9) | [:one:](./src/day09/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day09/part2.py) |
-| 10 | [Pipe Maze](https://adventofcode.com/2023/day/10) | [:one:](./src/day10/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day10/part2.py) |
-| 11 | [Cosmic Expansion](https://adventofcode.com/2023/day/11) | [:one:](./src/day11/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day11/part2.py) |
-| 12 | [Hot Springs](https://adventofcode.com/2023/day/12) | [:one:](./src/day12/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day12/part12.py) |
-| 13 | [Point of Incidence](https://adventofcode.com/2023/day/13) | [:one:](./src/day13/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day13/part2.py) |
-| 14 | [Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) | [:one:](./src/day14/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day14/part2.py) |
-| 15 | [Lens Library](https://adventofcode.com/2023/day/15) | [:one:](./src/day15/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day15/part2.py) |
-| 16 | [The Floor Will Be Lava](https://adventofcode.com/2023/day/16) | [:one:](./src/day16/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day16/part12.py) |
-| 17 | [Clumsy Crucible](https://adventofcode.com/2023/day/17) | [:one:](./src/day17/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day17/part12.py) |
-| 18 | [Lavaduct Lagoon](https://adventofcode.com/2023/day/18) | [:one:](./src/day18/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day18/part12.py) |
-| 19 | [Aplenty](https://adventofcode.com/2023/day/19) | [:one:](./src/day19/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day19/part2.py) |
-| 20 | [Pulse Propagation](https://adventofcode.com/2023/day/20) | [:one:](./src/day20/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day20/part12.py) |
-| 21 | [Step Counter](https://adventofcode.com/2023/day/21) | [:one:](./src/day21/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day21/part2.py) |
-| 22 | [Sand Slabs](https://adventofcode.com/2023/day/22) | [:one:](./src/day22/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day22/part2.py) |
-| 23 | [A Long Walk](https://adventofcode.com/2023/day/23) | [:one:](./src/day23/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day23/part2.py) |
-| 24 | [Never Tell Me The Odds](https://adventofcode.com/2023/day/24) | [:one:](./src/day24/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day24/part12.py) |
-| 25 | [Snowverload](https://adventofcode.com/2023/day/25) | [:one:](./src/day25/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day25/part1.py) |
+| 1 | [Trebuchet?!](https://adventofcode.com/2023/day/1) | [:check:](./src/day01) | :white_check_mark: |
+| 2 | [Cube Conundrum](https://adventofcode.com/2023/day/2) | [:check:](./src/day02) | :white_check_mark: |
+| 3 | [Gear Ratios](https://adventofcode.com/2023/day/3) | [:check:](./src/day03) | 
+| 4 | [Scratchcards](https://adventofcode.com/2023/day/4) | [:check:](./src/day04)|
+| 5 | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [:check:](./src/day05) |
+| 6 | [Wait For It](https://adventofcode.com/2023/day/6) | [:check:](./src/day06) |
+| 7 | [Camel Cards](https://adventofcode.com/2023/day/7) | [:check:](./src/day07) |
+| 8 | [Haunted Wasteland](https://adventofcode.com/2023/day/8) | [:check:](./src/day08) |
+| 9 | [Mirage Maintenance](https://adventofcode.com/2023/day/9) | [:check:](./src/day09) |
+| 10 | [Pipe Maze](https://adventofcode.com/2023/day/10) | [:check:](./src/day10) |
+| 11 | [Cosmic Expansion](https://adventofcode.com/2023/day/11) | [:check:](./src/day11) |
+| 12 | [Hot Springs](https://adventofcode.com/2023/day/12) | [:check:](./src/day12) |
+| 13 | [Point of Incidence](https://adventofcode.com/2023/day/13) | [:check:](./src/day13) |
+| 14 | [Parabolic Reflector Dish](https://adventofcode.com/2023/day/14) | [:check:](./src/day14) |
+| 15 | [Lens Library](https://adventofcode.com/2023/day/15) | [:check:](./src/day15) |
+| 16 | [The Floor Will Be Lava](https://adventofcode.com/2023/day/16) | [:check:](./src/day16) |
+| 17 | [Clumsy Crucible](https://adventofcode.com/2023/day/17) | [:check:](./src/day17) |
+| 18 | [Lavaduct Lagoon](https://adventofcode.com/2023/day/18) | [:check:](./src/day18) |
+| 19 | [Aplenty](https://adventofcode.com/2023/day/19) | [:check:](./src/day19) |
+| 20 | [Pulse Propagation](https://adventofcode.com/2023/day/20) | [:check:](./src/day20) |
+| 21 | [Step Counter](https://adventofcode.com/2023/day/21) | [:check:](./src/day21) |
+| 22 | [Sand Slabs](https://adventofcode.com/2023/day/22) | [:check:](./src/day22) |
+| 23 | [A Long Walk](https://adventofcode.com/2023/day/23) | [:check:](./src/day23) |
+| 24 | [Never Tell Me The Odds](https://adventofcode.com/2023/day/24) | [:check:](./src/day24) |
+| 25 | [Snowverload](https://adventofcode.com/2023/day/25) | [:check:](./src/day25) |
