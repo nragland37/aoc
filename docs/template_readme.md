@@ -2,7 +2,7 @@
 <br>
 
 | Day | Challenge | Solution |
-|:---:|:---|:---:|
+|:---:|:---:|:---:|
 | 1 | [🎁🎁🎁](https://adventofcode.com/2023/day/1) | [✨🌟✨](./src/day01) | 
 | 2 | [🎁🎁🎁](https://adventofcode.com/2023/day/2) | [](./src/day02) | 
 | 3 | [🎁🎁🎁](https://adventofcode.com/2023/day/3) | [](./src/day03) | 
