@@ -1,30 +1,30 @@
 # <p align="center"> AOC-2020 </p>
 <br>
 
-| Day | Challenge | Solution | Complete |
-|:---:|:---|:---:|:---:|
-| 1 | [Report Repair](https://adventofcode.com/2020/day/1) | [:one:](./src/day01/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day01/part2.py) |
-| 2 | [Password Philosophy](https://adventofcode.com/2020/day/2) | [:one:](./src/day02/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day02/part2.py) |
-| 3 | [Toboggan Trajectory](https://adventofcode.com/2020/day/3) | [:one:](./src/day03/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day03/part2.py) |
-| 4 | [Passport Processing](https://adventofcode.com/2020/day/4) | [:one:](./src/day04/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day04/part2.py) |
-| 5 | [Binary Boarding](https://adventofcode.com/2020/day/5) | [:one:](./src/day05/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day05/part2.py) |
-| 6 | [Custom Customs](https://adventofcode.com/2020/day/6) | [:one:](./src/day06/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day06/part2.py) |
-| 7 | [Handy Haversacks](https://adventofcode.com/2020/day/7) | [:one:](./src/day07/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day07/part2.py) |
-| 8 | [Handheld Halting](https://adventofcode.com/2020/day/8) | [:one:](./src/day08/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day08/part2.py) |
-| 9 | [Encoding Error](https://adventofcode.com/2020/day/9) | [:one:](./src/day09/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day09/part2.py) |
-| 10 | [Adapter Array](https://adventofcode.com/2020/day/10) | [:one:](./src/day10/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day10/part2.py) |
-| 11 | [Seating System](https://adventofcode.com/2020/day/11) | [:one:](./src/day11/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day11/part2.py) |
-| 12 | [Rain Risk](https://adventofcode.com/2020/day/12) | [:one:](./src/day12/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day12/part12.py) |
-| 13 | [Shuttle Search](https://adventofcode.com/2020/day/13) | [:one:](./src/day13/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day13/part2.py) |
-| 14 | [Docking Data](https://adventofcode.com/2020/day/14) | [:one:](./src/day14/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day14/part2.py) |
-| 15 | [Rambunctious Recitation](https://adventofcode.com/2020/day/15) | [:one:](./src/day15/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day15/part2.py) |
-| 16 | [Ticket Translation](https://adventofcode.com/2020/day/16) | [:one:](./src/day16/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day16/part12.py) |
-| 17 | [Conway Cubes](https://adventofcode.com/2020/day/17) | [:one:](./src/day17/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day17/part12.py) |
-| 18 | [Operation Order](https://adventofcode.com/2020/day/18) | [:one:](./src/day18/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day18/part12.py) |
-| 19 | [Monster Messages](https://adventofcode.com/2020/day/19) | [:one:](./src/day19/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day19/part2.py) |
-| 20 | [Jurassic Jigsaw](https://adventofcode.com/2020/day/20) | [:one:](./src/day20/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day20/part12.py) |
-| 21 | [Allergen Assessment](https://adventofcode.com/2020/day/21) | [:one:](./src/day21/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day21/part2.py) |
-| 22 | [Crab Combat](https://adventofcode.com/2020/day/22) | [:one:](./src/day22/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day22/part2.py) |
-| 23 | [Crab Cups](https://adventofcode.com/2020/day/23) | [:one:](./src/day23/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day23/part2.py) |
-| 24 | [Lobby Layout](https://adventofcode.com/2020/day/24) | [:one:](./src/day24/part12.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day24/part12.py) |
-| 25 | [Combo Breaker](https://adventofcode.com/2020/day/25) | [:one:](./src/day25/part1.py)  &nbsp;  &nbsp;  &nbsp;  [:two:](./src/day25/part1.py) |
+| Day | Challenge | Solution |
+|:---:|:---:|:---:|
+| 1 | [🎁🎄🎁](https://adventofcode.com/2020/day/1) | [](./src/day01) | 
+| 2 | [🎁🎄🎁](https://adventofcode.com/2020/day/2) | [](./src/day02) | 
+| 3 | [🎁🎄🎁](https://adventofcode.com/2020/day/3) | [](./src/day03) | 
+| 4 | [🎁🎄🎁](https://adventofcode.com/2020/day/4) | [](./src/day04)|
+| 5 | [🎁🎄🎁](https://adventofcode.com/2020/day/5) | [](./src/day05) |
+| 6 | [🎁🎄🎁](https://adventofcode.com/2020/day/6) | [](./src/day06) |
+| 7 | [🎁🎄🎁](https://adventofcode.com/2020/day/7) | [](./src/day07) |
+| 8 | [🎁🎄🎁](https://adventofcode.com/2020/day/8) | [](./src/day08) |
+| 9 | [🎁🎄🎁](https://adventofcode.com/2020/day/9) | [](./src/day09) |
+| 10 | [🎁🎄🎁](https://adventofcode.com/2020/day/10) | [](./src/day10) |
+| 11 | [🎁🎄🎁](https://adventofcode.com/2020/day/11) | [](./src/day11) |
+| 12 | [🎁🎄🎁](https://adventofcode.com/2020/day/12) | [](./src/day12) |
+| 13 | [🎁🎄🎁](https://adventofcode.com/2020/day/13) | [](./src/day13) |
+| 14 | [🎁🎄🎁](https://adventofcode.com/2020/day/14) | [](./src/day14) |
+| 15 | [🎁🎄🎁](https://adventofcode.com/2020/day/15) | [](./src/day15) |
+| 16 | [🎁🎄🎁](https://adventofcode.com/2020/day/16) | [](./src/day16) |
+| 17 | [🎁🎄🎁](https://adventofcode.com/2020/day/17) | [](./src/day17) |
+| 18 | [🎁🎄🎁](https://adventofcode.com/2020/day/18) | [](./src/day18) |
+| 19 | [🎁🎄🎁](https://adventofcode.com/2020/day/19) | [](./src/day19) |
+| 20 | [🎁🎄🎁](https://adventofcode.com/2020/day/20) | [](./src/day20) |
+| 21 | [🎁🎄🎁](https://adventofcode.com/2020/day/21) | [](./src/day21) |
+| 22 | [🎁🎄🎁](https://adventofcode.com/2020/day/22) | [](./src/day22) |
+| 23 | [🎁🎄🎁](https://adventofcode.com/2020/day/23) | [](./src/day23) |
+| 24 | [🎁🎄🎁](https://adventofcode.com/2020/day/24) | [](./src/day24) |
+| 25 | [🎁🎄🎁](https://adventofcode.com/2020/day/25) | [](./src/day25) |
