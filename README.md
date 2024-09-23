@@ -1,7 +1,7 @@
 # <p align="center"> Advent of Code </p>
 
 <p align="center">
-<img src="./docs/aoc-tree.png" width="120" height="200" />
+<img src="./docs/aoc-tree.png" width="240" height="400" />
 </p>
 
 [Advent of Code](https://adventofcode.com/2022/about) is an annual Advent calendar of small programming puzzles.
